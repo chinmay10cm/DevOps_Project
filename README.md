@@ -6,10 +6,7 @@ Building CI\CD Pipeline for the development cycle of software cycle.
 # Resolute.
 A website which helps people get the support they need to give up substance abuse. 
 
-## A glance of the web app
-<img width="949" alt="image" src="https://github.com/aggavni4/Resolute/assets/109527910/dfd30fbe-c9a9-4bdf-9e78-91aaf067c7ec">
-<img width="949" alt="image" src="https://github.com/aggavni4/Resolute/assets/109527910/bad0f142-097f-4719-92d7-82f2ac266f5b">
-<img width="949" alt="image" src="https://github.com/aggavni4/Resolute/assets/109527910/ad4a810a-6ae4-42ec-a998-f2a2a2b50c33">
+
 
 ## Getting started
 ### Installation
